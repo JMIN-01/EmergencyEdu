@@ -24,25 +24,37 @@
 
 ## 기능 설명
 ### 🩺 의료기관
-기관정보 및 교육 결과를 입력하고, 결과 보고를 조회하거나 수정할 수 있습니다.
+기관정보 및 교육 결과를 입력하고, 결과 보고를 조회하거나 수정할 수 있습니다.<br><br>
 
 **기관정보 입력**
-**교육 결과 입력**
+![기관정보](assets/insert.gif)<br><br>
+**교육 결과 입력**<br>
 - 아동학대
+![아동학대](assets/child.gif)<br><br>
 - 장애인학대
+![장애인학대](assets/disable.gif)<br><br>
 - 긴급복지
+![긴급복지](assets/welfare.gif)<br><br>
 - 노인학대(요양병원, 종합병원 급만 입력하는 교육)
+![노인학대](assets/old.gif)<br><br>
 **서명 후 제출**
+![전자서명](assets/sign.gif)<br><br><br>
 
 **제출 정보 조회**
+![조회](assets/lookup.gif)<br><br>
 **제출 정보 수정**
+![수정](assets/modify.gif)<br><br>
 
 ***
 
 ### 🏥 시청(보건소)
-실시간으로 교육 결과 제출 현황을 확인하고, 정보를 수정하거나 상태값을 변경할 수 있습니다.
+실시간으로 교육 결과 제출 현황을 확인하고, 정보를 수정하거나 상태값을 변경할 수 있습니다.<br><br>
 
 **제출 현황 확인**
+![확인](assets/check.gif)<br><br>
 **정보 수정**
+![수정](assets/edit.gif)<br><br>
 **상태값 변경**
+![상태값](assets/shift.gif)<br><br>
 **재제출 확인**
+![제재출](assets/ok.gif)<br><br>
