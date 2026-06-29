@@ -18,7 +18,7 @@
 - <strong>의료기관</strong>은 기관정보 및 교육 결과를 입력 후 제출합니다.
 ![의료기관](assets/member.gif)<br>
 - <strong>시청(보건소)</strong>은 실시간으로 교육 결과 제출 현황을 확인하고, 상태값을 변경할 수 있습니다.
-![기관장](assets/member.gif)<br>
+![기관장](assets/admin.gif)<br>
 
 ***
 
